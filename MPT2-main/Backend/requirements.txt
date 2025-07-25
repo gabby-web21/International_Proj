@@ -1,0 +1,10 @@
+supabase
+uvicorn
+fastapi
+python-multipart
+pydantic[email]
+pydantic
+python-dotenv
+python-jose
+mysql-connector-python
+psycopg

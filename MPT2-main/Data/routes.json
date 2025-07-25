@@ -1,0 +1,8 @@
+{
+  "/labels": "/labels",
+  "/ammonia-levels": "/ammoniaLevels",
+  "/oxygen-demand-levels": "/oxygenDemandLevels",
+  "/nutrient-levels": "/nutrientLevels",
+  "/ph-levels": "/phLevels",
+  "/rain-levels": "/rainLevels"
+}
